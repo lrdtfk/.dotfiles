@@ -1,0 +1,14 @@
+# Alias definitions.
+# all additional aliases definition
+
+# update and upgrade
+alias update="sudo apt update"
+alias upgrade="sudo apt upgrade"
+
+# dotfiles alias
+alias config="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
+
+# Navigation 
+alias ..="cd .."
+alias ...="cd ../.."
+

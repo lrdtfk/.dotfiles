@@ -1,0 +1,15 @@
+[user]
+	email = toufiklarid@gmail.com
+	name = toufiklarid
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	ci = commit
+	cm = commit -m
+	gl = config --global -l
+[core]
+	excludesFile = ~/.gitignore
+    editor= vim
+[init]
+	defaultBranch = main
